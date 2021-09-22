@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registeration App</string>
+    <string name="logout">logout</string>
+    <string name="login_successful">login successfully</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register_here">Register Here</string>
+</resources>
